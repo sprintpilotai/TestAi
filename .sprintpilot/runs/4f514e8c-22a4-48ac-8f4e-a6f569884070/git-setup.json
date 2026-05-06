@@ -1,0 +1,18 @@
+[
+  {
+    "label": "GitHub repo ready",
+    "value": "sprintpilotai/TestAi"
+  },
+  {
+    "label": "Git repository",
+    "value": "initialized locally"
+  },
+  {
+    "label": "Git remote",
+    "value": "https://***@github.com/sprintpilotai/TestAi.git"
+  },
+  {
+    "label": "Git branch",
+    "value": "agent/sprintpilotai-build-the-next-product-slice-planner-mvp"
+  }
+]
