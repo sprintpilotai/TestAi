@@ -1,0 +1,2 @@
+[agent/embedded] embedded run failover decision: runId=78fc6322-c08b-4f92-9a3a-3365439b623f stage=assistant decision=surface_error reason=timeout from=anthropic/claude-sonnet-4-5 profile=-
+[agent] run 78fc6322-c08b-4f92-9a3a-3365439b623f ended with stopReason=toolUse
