@@ -33,8 +33,9 @@ This MVP enables customers to browse, search, and purchase board games online, w
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd board-games-store
+git clone https://github.com/sprintpilotai/TestAi.git
+cd TestAi
+git checkout agent/builder-board-games-mvp
 ```
 
 ### 2. Install dependencies
